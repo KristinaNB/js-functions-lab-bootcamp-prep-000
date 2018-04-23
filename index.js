@@ -2,7 +2,7 @@
 function happyHolidays(){}
 console.log ("Happy holidays!");
 function happyHolidaysTo(){}
-console.log ("Happy holidays, $name}!;
+console.log ("Happy holidays, {$name}!");
 function happyHolidaysTo(){}
 console.log "Happy" ${holiday}, ${name}!;
 function holidayCountdown(){}
