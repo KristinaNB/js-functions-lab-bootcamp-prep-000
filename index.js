@@ -4,6 +4,6 @@ console.log ("Happy holidays!");
 function happyHolidaysTo(){}
 console.log ("Happy holidays, {$name}!");
 function happyHolidaysTo(){}
-console.log "Happy" ${holiday}, ${name}!;
+console.log ("Happy ${holiday}, ${name}!");
 function holidayCountdown(){}
-console.log "It is" ${days} days "until" ${holiday}!;
+console.log ("It is ${days} days until ${holiday}!");
